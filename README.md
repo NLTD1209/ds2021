@@ -11,6 +11,8 @@ USTH ICT 2021 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Nguyen Le Tuan Duy (BI9-082)
+* Nguyen Huy An (BI9-033)
+* Nguyen Thanh Gia Hien(BI9-099)
 
+Group Topic: Fault tolerance Key/value MPI
