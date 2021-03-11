@@ -14,5 +14,6 @@ Group Info
 * Nguyen Le Tuan Duy (BI9-082)
 * Nguyen Huy An (BI9-033)
 * Nguyen Thanh Gia Hien(BI9-099)
+* Luu Hai Nam (BI9-170)
 
 Group Topic: Fault tolerance Key/value MPI
